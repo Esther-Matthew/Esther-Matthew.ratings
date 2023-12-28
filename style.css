@@ -65,6 +65,7 @@ main {
     display: flex; 
     flex-direction: column;
     width: fit-content;
+    font-size:13px;
 }
 #result {
     color: rgb(252,118,19);
@@ -128,8 +129,8 @@ p {
 }
 .star-buttons {
     border-radius: 50%;
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 3.2rem;
+    height: 3.2rem;
     background-color: rgb(38,47,56);
     display: flex;
     font-family:
@@ -142,7 +143,7 @@ h6 {
 }
 button {
     background-color: rgb(252,118,19);
-    height: 3.6rem;
+    height: 4rem;
     border-radius: 35px;
     border: none;
     font-family:
